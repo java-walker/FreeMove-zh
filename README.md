@@ -7,7 +7,7 @@
 
 ### 工作原理
 1. 文件会被移动到新位置
-2. [symbolic link](https://www.wikiwand.com/en/NTFS_junction_point)从旧位置创建了一个符号链接[(symbolic link)](https://www.wikiwand.com/en/NTFS_junction_point)，指向新位置。任何尝试访问旧位置文件的程序将会自动被重定向到新位置
+2. 从旧位置创建了一个符号链接[(symbolic link)](https://www.wikiwand.com/en/NTFS_junction_point)，指向新位置。任何尝试访问旧位置文件的程序将会自动被重定向到新位置
 ## Download
 [![Github All Releases](https://img.shields.io/github/downloads/imDema/FreeMove/total.svg)](https://github.com/imDema/FreeMove/releases/latest)
 
