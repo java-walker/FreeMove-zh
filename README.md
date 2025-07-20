@@ -5,7 +5,7 @@
 
 你可以使用此工具将默认安装在 C:\ 的程序移动到另一个磁盘，以节省主磁盘的空间
 
-### How It works
+### 工作原理
 1. The files are moved to the new location
 2. A [symbolic link](https://www.wikiwand.com/en/NTFS_junction_point) is created from the old location redirecting to the new one. Any program trying to access a file in the old location will automatically be redirected to its new location
 
