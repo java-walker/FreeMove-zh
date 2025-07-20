@@ -3,7 +3,7 @@
 
 自由移动目录，而不破坏安装或快捷方式
 
-You can use this tool to move programs that install on C:\ by default to another drive to save space on your main drive
+你可以使用此工具将默认安装在 C:\ 的程序移动到另一个磁盘，以节省主磁盘的空间
 
 ### How It works
 1. The files are moved to the new location
