@@ -1,7 +1,7 @@
 # FreeMove
 [![license](https://img.shields.io/github/license/ImDema/FreeMove.svg)](https://github.com/imDema/FreeMove/blob/master/LICENSE.txt)
 
-Move directories freely without breaking installations or shortcuts
+自由移动目录，而不破坏安装或快捷方式
 
 You can use this tool to move programs that install on C:\ by default to another drive to save space on your main drive
 
