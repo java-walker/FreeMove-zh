@@ -13,7 +13,7 @@
 
 #### From GitHub
 
-[Download the latest release](https://github.com/imDema/FreeMove/releases/latest)
+[下载最新版本](https://github.com/imDema/FreeMove/releases/latest)
 
 #### From Scoop
 
